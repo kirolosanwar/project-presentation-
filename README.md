@@ -17,6 +17,9 @@ Additionally, the app generates Grad-CAM visualizations to highlight important r
 
 
 📂 Project Structure
+
+
+
 ├── app.py               # Main Streamlit application
 ├── model.pth            # Trained PyTorch model (ResNet, DenseNet, etc.)
 ├── requirements.txt     # Required dependencies

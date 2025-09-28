@@ -2,7 +2,7 @@
 
 This project is a Streamlit-based web application for image classification using a pre-trained PyTorch model.
 Additionally, the app generates Grad-CAM visualizations to highlight important regions in the image that contributed to the model's decision.
-
+----------------------------------------------
 🚀 Features
 
 -📂 Upload an image (.jpg, .jpeg, .png).
@@ -16,14 +16,14 @@ Additionally, the app generates Grad-CAM visualizations to highlight important r
 -🖥️ Simple and interactive Streamlit UI.
 
 
-
+------------------------------------------------------------------
 🖼️ Example Output
 
 ✅ Prediction of the uploaded image.
 
 🌈 Grad-CAM heatmap overlayed on the image for interpretability.
 
-
+-----------------------------------------------------------------
 
 🧠 Model
 
@@ -33,7 +33,7 @@ Additionally, the app generates Grad-CAM visualizations to highlight important r
 
 -The final layer is adjusted for your number of classes.
 
-
+----------------------------------------------------------------------------
 
 📌 Notes
 
@@ -43,7 +43,7 @@ If you face BidirectionalMap errors, ensure the model was saved/loaded correctly
 
 Grad-CAM is attached to the last convolutional layer of the model (changeable in code).
 
-
+-----------------------------------------------------------------------------------------------------------------
 
 ## 🖼️ Example
 

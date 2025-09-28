@@ -16,15 +16,6 @@ Additionally, the app generates Grad-CAM visualizations to highlight important r
 -🖥️ Simple and interactive Streamlit UI.
 
 
-📂 Project Structure
-
-
-
-├── app.py               # Main Streamlit application
-├── model.pth            # Trained PyTorch model (ResNet, DenseNet, etc.)
-├── requirements.txt     # Required dependencies
-└── README.md            # Project documentation
-
 
 🖼️ Example Output
 
@@ -53,3 +44,11 @@ If you face BidirectionalMap errors, ensure the model was saved/loaded correctly
 Grad-CAM is attached to the last convolutional layer of the model (changeable in code).
 
 
+
+## 🖼️ Example
+
+Original Image:  
+![Original Image](images/original.jpg)
+
+Grad-CAM Heatmap:  
+![GradCAM](images/gradcam.jpg)

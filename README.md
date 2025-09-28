@@ -45,10 +45,11 @@ Grad-CAM is attached to the last convolutional layer of the model (changeable in
 
 -----------------------------------------------------------------------------------------------------------------
 
-## 🖼️ Example
+## 🖼️ video
 
-Original Image:  
-![Original Image](images/original.jpg)
+## 🎥 Demo Video
 
-Grad-CAM Heatmap:  
-![GradCAM](images/gradcam.jpg)
+[Watch Demo](videos/demo.mp4)
+
+
+

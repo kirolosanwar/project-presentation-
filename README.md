@@ -49,7 +49,7 @@ Grad-CAM is attached to the last convolutional layer of the model (changeable in
 
 ## 🎥 Demo Video
 
-[Watch Demo](videos/demo.mp4)
+[Watch Demo](output/VID-20250928-WA0069.mp4)
 
 
 
